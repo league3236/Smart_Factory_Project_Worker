@@ -1,0 +1,4 @@
+create_csv.py
+att_faces
+haarcascade_frontalface_alt2.xml
+총 3개의 파일과 debug폴더를 함께 옮겨야 에러발생하지 않는다

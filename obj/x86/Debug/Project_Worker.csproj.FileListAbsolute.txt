@@ -1,0 +1,201 @@
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csprojResolveAssemblyReference.cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\MainWindow.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page2.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page3.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page1.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Sign.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Work_Page.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\App.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.lref
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\MySql.Data.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\MySql.Data.xml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\MainWindow.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page2.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page3.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page1.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Sign.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Work_Page.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.g.resources
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.Properties.Resources.resources
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.GenerateResource.Cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\얼굴인식v2 - 복사본\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.exe
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.pdb
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page2.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page3.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page1.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Sign.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Work_Page.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\App.g.cs
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.cache
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.lref
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.pdb
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\MySql.Data.xml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\MainWindow.baml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page2.baml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page3.baml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page1.baml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Sign.baml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Work_Page.baml
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.g.resources
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.Properties.Resources.resources
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.UserControl1.resources
+C:\Users\user1\Desktop\얼굴인식v2 - 최신판\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.GenerateResource.Cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csprojResolveAssemblyReference.cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\MainWindow.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page2.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page3.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page1.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Sign.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Work_Page.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\App.g.cs
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.lref
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\MainWindow.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page2.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page3.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Page1.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Sign.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Work_Page.baml
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.g.resources
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.Properties.Resources.resources
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.UserControl1.resources
+C:\Users\605pc\Desktop\얼굴인식v2 - 최신판2\얼굴인식v2\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.GenerateResource.Cache
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\bin\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csprojResolveAssemblyReference.cache
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\MainWindow.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Page2.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Page3.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Page1.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Sign.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Work_Page.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\App.g.cs
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.cache
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker_MarkupCompile.lref
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\MainWindow.baml
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Page2.baml
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Page3.baml
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Page1.baml
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Sign.baml
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Work_Page.baml
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.g.resources
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.Properties.Resources.resources
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.UserControl1.resources
+C:\Users\605pc\Desktop\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.GenerateResource.Cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 최종이거이거\얼굴인식v2 - 이거임\얼굴인식v2\Project_Worker - 0811\Project_Worker - 0809\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\얼굴인식v2 - 최종이거이거\얼굴인식v2 - 이거임\얼굴인식v2\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최종이거이거\얼굴인식v2 - 이거임\얼굴인식v2\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\얼굴인식v2 - 최종이거이거\얼굴인식v2 - 이거임\얼굴인식v2\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\605pc\Desktop\얼굴인식v2 - 최종이거이거\얼굴인식v2 - 이거임\얼굴인식v2\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\얼굴인식v2 - 최종이거이거\얼굴인식v2 - 이거임\얼굴인식v2\Project_Worker - 0811\Project_Worker - 0809\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.csprojResolveAssemblyReference.cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page2.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page3.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page1.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Sign.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Work_Page.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\App.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker_MarkupCompile.cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker_MarkupCompile.lref
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\MainWindow.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page2.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page3.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page1.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Sign.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Work_Page.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.g.resources
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.Properties.Resources.resources
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.UserControl1.resources
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.csproj.GenerateResource.Cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Project_Worker.exe.config
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.csproj.ResolveComReference.cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Project_Worker.exe
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Project_Worker.pdb
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.csprojResolveAssemblyReference.cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page2.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page3.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page1.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Sign.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Work_Page.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\App.g.cs
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker_MarkupCompile.cache
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker_MarkupCompile.lref
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\MainWindow.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page2.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page3.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Page1.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Sign.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Work_Page.baml
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.g.resources
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.Properties.Resources.resources
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.UserControl1.resources
+C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\obj\x86\Debug\Project_Worker.csproj.GenerateResource.Cache

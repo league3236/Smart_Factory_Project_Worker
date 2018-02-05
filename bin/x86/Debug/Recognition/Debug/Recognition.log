@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\project_worker\bin\x86\debug\recognition\camera.h(25): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\project_worker\bin\x86\debug\recognition\camera.h(26): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\project_worker\bin\x86\debug\recognition\camera.cpp(11): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\project_worker\bin\x86\debug\recognition\camera.cpp(12): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\project_worker\bin\x86\debug\recognition\camera.cpp(233): warning C4244: '인수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Recognition.vcxproj -> C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\Project_Worker\bin\x86\Debug\Recognition\Debug\Recognition.exe
